@@ -77,6 +77,7 @@ namespace ZabawaLiczbamiUpartymi
                             return;
                         }
                         //break;
+                        //comment
                     }
                 }
                 if (i.ToString().Contains("0"))
